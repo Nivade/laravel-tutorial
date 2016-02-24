@@ -2,6 +2,6 @@
 
 @section('content')
 
-	<h1>The about page goes here</h1>
-
+    <h1>The welcome page goes here</h1>
+    
 @stop
